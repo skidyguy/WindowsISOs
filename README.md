@@ -3,11 +3,11 @@ Welcome to WindowsISOs. This github will contain a variety of different ISOs fro
 ---------
 Sources :
 
-www.os.click
+os.click
 
-www.dl.malwarewatch.org/windows/
+dl.malwarewatch.org/windows/
 
-www.microsoft.com/en-gb/software-download/
+microsoft.com/en-gb/software-download/
 ---------
 
 (I DO NOT TAKE ANY BLAME FOR ANY MISUSE WITH THE PRODUCTS!)
