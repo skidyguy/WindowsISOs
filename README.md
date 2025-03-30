@@ -1,4 +1,4 @@
-Welcome to WindowsISOs. This github will contain a variety of different ISOs from different Operating Systems and different versions!
+Welcome to WindowsISOs. This github will contain a variety of different ISO websites from different Operating Systems and different versions!
 
 ---------
 Sources :
